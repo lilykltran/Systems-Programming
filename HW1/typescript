@@ -1,0 +1,21 @@
+Script started on Mon 22 Jan 2018 11:40:47 PM PST
+litran@ada:~/CS201_Programs/HW1$ make
+gcc *.c -g -Wall
+litran@ada:~/CS201_Programs/HW1$ ./a.out
+Type the following words: 
+Word #1 is fox: fox
+Word #2 is over: over
+Word #3 is The: The
+Word #4 is jumps: jumps
+Word #5 is the: the
+Word #6 is brown: B browaj
+Incorrect. Try again.
+Word #6 is brown: brown
+Word #7 is dog: dog
+Word #8 is lazy: lazy
+Word #9 is quick: quick
+Correct! Your time is: 15 sec, 502705 usec
+litran@ada:~/CS201_Programs/HW1$ exit
+exit
+
+Script done on Mon 22 Jan 2018 11:41:10 PM PST

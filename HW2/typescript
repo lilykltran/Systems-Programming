@@ -1,0 +1,12 @@
+Script started on Thu 08 Feb 2018 01:08:19 PM PST
+litran@ada:~/CS201_Programs/HW2$ ./setBits awlt
+Arguments must be numbers between 0..15litran@ada:~/CS201_Programs/HW2$ ./setBits awlt[K[K[K[K3 13 8 14 15
+1110000100001000
+litran@ada:~/CS201_Programs/HW2$ ./showBits awlt2
+Error: please provide two hexadecimal numbers as arguments to the program.
+litran@ada:~/CS201_Programs/HW2$ ./showBits 0xE0C874A3 0xD49157FF
+Bits 0,1,5,7,10,12,14,23,30,31, in common. Hexadecimal: c08054a3, Signed: -1065331549, Unsigned: 3229635747
+litran@ada:~/CS201_Programs/HW2$ exit
+exit
+
+Script done on Thu 08 Feb 2018 01:08:58 PM PST

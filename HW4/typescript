@@ -1,0 +1,33 @@
+Script started on Thu 15 Mar 2018 04:35:54 PM PDT
+litran@ada:~/CS201_Programs/HW4/litran$ zip -r litran.zip litranls[Kcd ..[3Plscat smiley.txtls[K./convbits <smiley.txt
+  ooooo  
+ o     o 
+o  o o  o
+o       o
+o o   o o
+o  ooo  o
+ o     o 
+  ooooo  
+litran@ada:~/CS201_Programs/HW4/litran$ ./convbits <smiley.txt[1Psmiley.txt-smiley.txtismiley.txt smiley.txt
+  ooooo  
+ o     o 
+o  o o  o
+o       o
+o o   o o
+o  ooo  o
+ o     o 
+  ooooo  
+litran@ada:~/CS201_Programs/HW4/litran$ ./convbits -i smiley.txt -i p[K[K[Ko filename.txt
+litran@ada:~/CS201_Programs/HW4/litran$ cat filename.txt
+  ooooo  
+ o     o 
+o  o o  o
+o       o
+o o   o o
+o  ooo  o
+ o     o 
+  ooooo  
+litran@ada:~/CS201_Programs/HW4/litran$ exit
+exit
+
+Script done on Thu 15 Mar 2018 04:36:27 PM PDT

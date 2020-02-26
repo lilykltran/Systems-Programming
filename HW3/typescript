@@ -1,0 +1,31 @@
+Script started on Fri 23 Feb 2018 02:18:08 PM PST
+litran@ada:~/CS201_Programs/HW3$ ./fp_parse 11 4 33f
+Illegal number of fraction bits (11). Should be between 2 and 10.
+litran@ada:~/CS201_Programs/HW3$ ./fp_parse 11 4 33f[K[K[K[K[K[K[K[K4 8 33f
+Illegal number of exponent bits (8). Should be between 3 and 5.
+litran@ada:~/CS201_Programs/HW3$ ./fp_parse 4 8 33f[K[K[K[K[K[K[K4 4 1af
+-15.500000
+litran@ada:~/CS201_Programs/HW3$ ./fp_parse 4 4 1af[K[K[Kaf
+15.500000
+litran@ada:~/CS201_Programs/HW3$ ./fp_parse 4 4 af[K[K[K[K[K[K3 3 3c
+NaN
+litran@ada:~/CS201_Programs/HW3$ ./fp_parse 3 3 3c[K[K38
++inf
+litran@ada:~/CS201_Programs/HW3$ ./fp_parse 3 3 38[K[K78
+-inf
+litran@ada:~/CS201_Programs/HW3$ ./fp_parse 3 3 78[K[K[K 26
+2.000000
+litran@ada:~/CS201_Programs/HW3$ ./fp_parse 3 3 26[K[K18
+1.000000
+litran@ada:~/CS201_Programs/HW3$ ./fp_parse 3 3 18[K[K3f
+NaN
+litran@ada:~/CS201_Programs/HW3$ ./fp_parse 3 3 3f[K[K37
+15.000000
+litran@ada:~/CS201_Programs/HW3$ ./fp_parse 3 3 374 [K[K[K[K[K[K[K[K4 4 0
+0.000000
+litran@ada:~/CS201_Programs/HW3$ ./fp_parse 4 4 0[K[K1[K 100
+-0.000000
+litran@ada:~/CS201_Programs/HW3$ exit
+exit
+
+Script done on Fri 23 Feb 2018 02:19:12 PM PST
